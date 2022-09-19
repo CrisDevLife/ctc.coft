@@ -22,6 +22,6 @@ NB: Below inputs are required prior to compiling the code.
   string card_no = "<Test Card No here>";
   
 
-Lastly, the following C# packages were referenced for these sample program:
+Lastly, the following C# packages were referenced for this sample program:
     <PackageReference Include="jose-jwt" Version="4.0.1" />
     <PackageReference Include="System.Text.Json" Version="6.0.5" />
